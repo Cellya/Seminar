@@ -10,3 +10,4 @@
 * git branch -d _branch_name_ - удаление ветки _branch_name_, только если она слита
 * git branch -D _branch_name_ - удаление ветки _branch_name_
 ## Log с показанными ветками
+* git log --graph - выводит лог и показывает ветки
